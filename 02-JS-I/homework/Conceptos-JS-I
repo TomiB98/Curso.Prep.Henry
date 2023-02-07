@@ -1,0 +1,7 @@
+Variables: Una variable es la forma de asignarle un valor a algo, para crear una utilizamos "var" seguida de un espacio y el nombre que le vamos a asignarle
+Strings: Estas son bloques de texto osea palabras, siempre se escriben entre comillas ya sean simples o dobles
+Funciones: Son una parte muy importante en todo lenguaje de programacion. Son objetos llamados callable objets u objetos invocables y se pueden constituir de tres formas 
+Funciones (argumentos): Los llamados argumentos son los que podemos encontrar entre los parentesis despues de el nombre de la funcion que estemos utilizando
+Funciones(return):Utilizamos la declaracion return cuando queremos que una funcion se detenga y nos devuelva lo que esta especificado en ella
+Declaraciones(if): if es un operador de control de flujo y comparacion, es una forma de que nuestra funcion verifique si algo es verdadero (true)
+Valores booleanos (true, false): Estos provienen de la logica de Boole, es el concepto que alimenta el codigo binario y tiene dos valores posibles en JS y son true o false 
