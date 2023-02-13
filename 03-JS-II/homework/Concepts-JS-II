@@ -1,0 +1,5 @@
+for: El bucle for es similar al if, pero un poco mas complejo. Primero se utiliza la palabra clave for, seguida de () y luego los {}. Dentro de los () necesitamos 3 cosas, primero declarar una variable, esto es sobre lo que se repetira el bucle, luego una expresion condicional, la cual hara que el ciclo se repita hasta que esta sea falsa y tercero como se va a incrementar nuestra variable. Estas tres se separan con ;
+&&, ||, !, son operadores logicos
+&&: "Y" o "AND", este operador evalua ambas expresiones que se le proporciona y devuelve verdadero solo si es que ambas son true. Si una o ambas expresiones son falsas devolvera false
+||: "O" o "OR", este operador devolvera true si una o ambas de las expresiones son verdaderas y devolvera false solo si ambas son falsas
+!: "NO" o "NOT", este operador devolvera el valor booleano opuesto de lo que se le proporcione
